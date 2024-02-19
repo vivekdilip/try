@@ -1,9 +1,3 @@
 Hello
 
-THis is my first code.
-File name is cal.txt
-
-I love you Softy.
-
-Thanks,
-Vivek
+This is my second try for version 1
